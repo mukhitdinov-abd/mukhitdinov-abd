@@ -17,7 +17,7 @@ ROLE = "AI/ML Engineer"
 # The network "generates" one of these per forward pass.
 # Keep each under ~22 chars so the tagline ends before the network (x=600).
 PHRASES = [
-    "building Uzbek STT",
+    "building multilingual STT",
     "fine-tuning Whisper",
     "mining speech data",
     "training ASR models",
