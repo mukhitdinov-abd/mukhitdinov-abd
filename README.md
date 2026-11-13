@@ -4,6 +4,7 @@
   <img alt="Abdul-Aziz — AI/ML Engineer" src="assets/hero-light.svg" width="100%">
 </picture>
 
+<p>
 <a href="https://linkedin.com/in/abdul-aziz-muxitdinov"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/link-linkedin-light.svg">
@@ -14,6 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/link-telegram-light.svg">
   <img alt="Telegram" src="assets/link-telegram-light.svg" height="32">
 </picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukhitdinov-abd/mukhitdinov-abd/output/pulse-dark.svg">
