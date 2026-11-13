@@ -59,7 +59,7 @@ def build(total, weeks, t):
 <defs>
   <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="{W}" y2="0">{stops}</linearGradient>
   <linearGradient id="a" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="{t['a2']}" stop-opacity=".16"/><stop offset="1" stop-color="{t['a2']}" stop-opacity="0"/>
+    <stop offset="0" stop-color="{t['a1']}" stop-opacity=".16"/><stop offset="1" stop-color="{t['a1']}" stop-opacity="0"/>
   </linearGradient>
 </defs>
 <style>
